@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1:20" height="250.0mm" id="root" version="1.1" viewBox="0 0 250.0 250.0" width="250.0mm">
+  <defs/>
+  <line class="GlobalId-1WerhBIcXDT87tQ23Bomnm IfcAnnotation PredefinedType-DIMENSION" x1="42.69517135620117" x2="192.69512939453125" y1="179.88894653320312" y2="179.8889617919922"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(117.69514465332031, 178.88894653320312) rotate(5.828429861320024e-06)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">3.000</tspan>
+  </text>
+  <line class="GlobalId-1WerhBIcXDT87tQ23Bomnm IfcAnnotation PredefinedType-DIMENSION" x1="59.91575622558594" x2="59.91575622558594" y1="190.92767333984375" y2="40.92770767211914"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(58.91575622558594, 115.92768859863281) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">3.000</tspan>
+  </text>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(91.98974609375, 122.7447509765625) rotate(-0.0)">
+    <tspan class="GlobalId-2yy19ZDRL7mPoFMn57u1iI IfcAnnotation PredefinedType-TEXT large" dy="0em" x="0" y="0">ROOM 3m x 3m</tspan>
+  </text>
+</svg>

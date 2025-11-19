@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1:50" height="121.9865894850406mm" id="root" version="1.1" viewBox="0 0 181.96332931518555 121.9865894850406" width="181.96332931518555mm">
+  <defs/>
+  <path class="GlobalId-0EZpXeBJHEfuwJ8wLmz7VH IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 142.91217041015625 96.39850616455078 L 22.748836517333984 96.39850616455078"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(142.91217041015625, 92.89850616455078) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">Ground Floor</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL -0.000</tspan>
+  </text>
+  <path class="GlobalId-05IBRZH3H6O8UwwZ4YRflF IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 142.91217041015625 36.39850616455078 L 22.748836517333984 36.39850616455078"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(142.91217041015625, 32.89850616455078) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">Roof Level</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +3.000</tspan>
+  </text>
+</svg>

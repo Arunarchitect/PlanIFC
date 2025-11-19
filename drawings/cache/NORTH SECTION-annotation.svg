@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:ifc="http://www.ifcopenshell.org/ns" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" data-scale="1:50" height="120.0928271311634mm" id="root" version="1.1" viewBox="0 0 179.79999542236328 120.0928271311634" width="179.79999542236328mm">
+  <defs/>
+  <line class="GlobalId-19$ta1$1H2gOpV16RwGXtW IfcAnnotation PredefinedType-DIMENSION" x1="19.148582458496094" x2="19.148582458496094" y1="102.35388946533203" y2="98.3538818359375"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(18.148582458496094, 95.3538818359375) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">0.200</tspan>
+  </text>
+  <line class="GlobalId-19$ta1$1H2gOpV16RwGXtW IfcAnnotation PredefinedType-DIMENSION" x1="19.148582458496094" x2="19.148582458496094" y1="98.3538818359375" y2="38.6324348449707"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(18.148582458496094, 68.49315643310547) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">2.986</tspan>
+  </text>
+  <line class="GlobalId-19$ta1$1H2gOpV16RwGXtW IfcAnnotation PredefinedType-DIMENSION" x1="19.148582458496094" x2="19.148582458496094" y1="38.6324348449707" y2="7.455430030822754"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="middle" transform="translate(18.148582458496094, 23.04393196105957) rotate(-90.00000250447816)">
+    <tspan class="DIMENSION" dy="0em" x="0" y="0">1.559</tspan>
+  </text>
+  <path class="GlobalId-3D2Itc0zn58ucYX_eaGaHb IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 147.21713256835938 38.353885650634766 L 2.8171348571777344 38.353885650634766"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(147.21713256835938, 34.853885650634766) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">Roof Level</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL +3.000</tspan>
+  </text>
+  <path class="GlobalId-10fEhXngb95AfE5gVpg0QC IfcAnnotation PredefinedType-SECTIONLEVEL" d="M 147.21713256835938 98.3538818359375 L 2.8171348571777344 98.3538818359375"/>
+  <text dominant-baseline="baseline" style="font-size: 0;" text-anchor="start" transform="translate(147.21713256835938, 94.8538818359375) rotate(0.0)">
+    <tspan class="SECTIONLEVEL" dy="-1em" x="0" y="0">Ground Floor</tspan>
+    <tspan class="SECTIONLEVEL" dy="0em" x="0" y="0">RL -0.000</tspan>
+  </text>
+</svg>
