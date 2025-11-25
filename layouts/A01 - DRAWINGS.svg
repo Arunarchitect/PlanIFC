@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" id="root" version="1.1" width="594.0mm" height="420.0mm" viewBox="0 0 594.0 420.0" ns1:docname="A01 - DRAWINGS.svg" ns2:version="1.4.2 (f4327f4, 2025-05-13)">
+  <defs id="defs9" />
+  <ns1:namedview id="namedview9" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" ns2:document-units="mm" ns2:zoom="0.34433224" ns2:cx="1006.2955" ns2:cy="678.12412" ns2:window-width="1920" ns2:window-height="991" ns2:window-x="-9" ns2:window-y="-9" ns2:window-maximized="1" ns2:current-layer="root" />
+  <g data-type="titleblock" id="g1">
+    <image xlink:href="titleblocks/A2.svg" x="0" y="0" width="594.0" height="420.0" id="image1" />
+  </g>
+  <g data-type="drawing" data-id="2817" data-drawing="1Ku5$hEZD1_gcRZv6t3g0F" id="g3" transform="translate(55.324474,168.27861)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CGROUND%20FLOOR%20PLAN.svg" x="-10.0" y="-10.0" width="200.0" height="200.0" id="image2" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="-3.0265205" y="164.04433" width="50.222462" height="10" id="image3" />
+  </g>
+  <g data-type="drawing" data-id="2818" data-drawing="0Ib_6Z7Uz3YhGdiwJwyqrk" id="g5" transform="translate(-77.607942,8.8365479)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CNORTH%20SECTION.svg" x="160" y="30" width="179.79999" height="120.09283" id="image4" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="160" y="155.09283" width="50.222462" height="10" id="image5" />
+  </g>
+  <g data-type="drawing" data-id="2819" data-drawing="1UwfN$7a524wHH5$pVnokQ" id="g7" transform="translate(-20.228774,11.141734)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CSOUTH%20ELEVATION.svg" x="349.79999" y="30" width="181.96333" height="121.98659" id="image6" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="348.6474" y="152.78764" width="50.222462" height="10" id="image7" />
+  </g>
+  <g data-type="drawing" data-id="2820" data-drawing="189sU1FPHFhxxX$BPESyns" id="g9" transform="translate(339.04269,-39.663648)">
+    <image data-type="foreground" xlink:href="..%5Cdrawings%5CORTHOGRAPHIC.svg" x="30" y="176.98659" width="200" height="200" id="image8" />
+    <image data-type="view-title" xlink:href="assets%5Cview-title.svg" x="40.051746" y="353.46136" width="50.222462" height="10" id="image9" />
+  </g>
+</svg>
