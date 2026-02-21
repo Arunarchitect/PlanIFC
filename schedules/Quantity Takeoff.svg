@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="47.211999999999996mm" id="root" version="1.1" viewBox="0 0 120.07952 47.211999999999996" width="120.07952mm">
+  <defs>
+    <style type="text/css"><![CDATA[/*
+ * Bonsai - OpenBIM Blender Add-on
+ * Copyright (C) 2020, 2021 Dion Moult <dion@thinkmoult.com>
+ *
+ * This file is part of Bonsai.
+ *
+ * Bonsai is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Bonsai is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY, without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * long with Bonsai.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/**
+ * You may copy this `schedule.css` template alongside your input schedule
+ * document with the same filename. For example if you have a schedule called
+ * `door_types.ods`, you can create a `door_types.css` in the same folder to
+ * style that schedule.
+ */
+
+/**
+ * If you specify a font size in CSS, such as text { font-size: 5; }, all fonts
+ * will be overriden to match that size.
+ *
+ * If your CSS, ODS, XLSX does not specify a font size, the variables below
+ * will specify the default font size.
+ *
+ * If your ODS, XLSX does specify a font size, they will scale linearly based
+ * on the variables below.
+ */
+
+:root {
+    --font-size-pt: 12;
+    --font-size-px: 4.13;
+    --font-width: 0.45;
+}
+
+text, tspan { /* 2.5mm */ fill: black; stroke: none; font-family: 'OpenGost Type B TT', 'DejaVu Sans Condensed', 'Liberation Sans', 'Arial Narrow', 'Arial'; }
+
+.border {
+    stroke: #000000;
+    stroke-width:.125;
+    fill: none; /* will be overriden if background color is set in .ods, or .xlsx */
+}]]></style>
+  </defs>
+  <rect class="border" height="4.521199999999999" style="fill: #ff6d6d;" width="8.70966" x="1" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="4.521199999999999">S.n</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ff6d6d;" width="36.20008" x="9.70966" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="4.521199999999999">Item</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ff6d6d;" width="35.968939999999996" x="45.90974" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="4.521199999999999">Measurement Type</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ff6d6d;" width="14.620239999999999" x="81.87868" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="4.521199999999999">Quantity</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ff6d6d;" width="22.5806" x="96.49892" y="1"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="4.521199999999999">unit</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="8.70966" x="1" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="9.042399999999999">1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="36.20008" x="9.70966" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="9.042399999999999">Floor Slab</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="35.968939999999996" x="45.90974" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="9.042399999999999">Area</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="14.620239999999999" x="81.87868" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="9.042399999999999">72</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="22.5806" x="96.49892" y="5.521199999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="9.042399999999999">m2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="8.70966" x="1" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="13.563599999999997">2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="36.20008" x="9.70966" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="13.563599999999997">Column</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="35.968939999999996" x="45.90974" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="13.563599999999997">Volume</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="14.620239999999999" x="81.87868" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="13.563599999999997">3.84</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="22.5806" x="96.49892" y="10.042399999999999"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="13.563599999999997">m3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="8.70966" x="1" y="14.563599999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="18.084799999999998">3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="36.20008" x="9.70966" y="14.563599999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="18.084799999999998">Wall</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="35.968939999999996" x="45.90974" y="14.563599999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="18.084799999999998">Volume</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="14.620239999999999" x="81.87868" y="14.563599999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="18.084799999999998">45.56</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="22.5806" x="96.49892" y="14.563599999999997"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="18.084799999999998">m3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="8.70966" x="1" y="19.084799999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="22.605999999999998">4</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="36.20008" x="9.70966" y="19.084799999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="22.605999999999998">Beam</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="35.968939999999996" x="45.90974" y="19.084799999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="22.605999999999998">Volume</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="14.620239999999999" x="81.87868" y="19.084799999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="22.605999999999998">6.336</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="22.5806" x="96.49892" y="19.084799999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="22.605999999999998">m3</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="8.70966" x="1" y="23.605999999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="27.1272">5</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="36.20008" x="9.70966" y="23.605999999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="27.1272">Roof</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="35.968939999999996" x="45.90974" y="23.605999999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="27.1272">Area</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="14.620239999999999" x="81.87868" y="23.605999999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="27.1272">109.39</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="22.5806" x="96.49892" y="23.605999999999998"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="27.1272">m2</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="8.70966" x="1" y="28.1272"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="31.648399999999995">6</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="36.20008" x="9.70966" y="28.1272"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="31.648399999999995">Doors</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="35.968939999999996" x="45.90974" y="28.1272"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="31.648399999999995">Count</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="14.620239999999999" x="81.87868" y="28.1272"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="31.648399999999995">1</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="22.5806" x="96.49892" y="28.1272"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="31.648399999999995">Nos.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffff00;" width="8.70966" x="1" y="32.648399999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="36.169599999999996">7</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffff00;" width="36.20008" x="9.70966" y="32.648399999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="36.169599999999996">Windows</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffff00;" width="35.968939999999996" x="45.90974" y="32.648399999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="36.169599999999996">Count</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffff00;" width="14.620239999999999" x="81.87868" y="32.648399999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="36.169599999999996">11</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffff00;" width="22.5806" x="96.49892" y="32.648399999999995"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="36.169599999999996">Nos.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="8.70966" x="1" y="37.169599999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="40.690799999999996">8</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="36.20008" x="9.70966" y="37.169599999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="40.690799999999996">Tables</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="35.968939999999996" x="45.90974" y="37.169599999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="40.690799999999996">Count</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="14.620239999999999" x="81.87868" y="37.169599999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="40.690799999999996">8</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="22.5806" x="96.49892" y="37.169599999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="40.690799999999996">Nos.</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="8.70966" x="1" y="41.690799999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="2" y="45.211999999999996">9</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="36.20008" x="9.70966" y="41.690799999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="10.70966" y="45.211999999999996">Chairs</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="35.968939999999996" x="45.90974" y="41.690799999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="46.90974" y="45.211999999999996">Count</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="14.620239999999999" x="81.87868" y="41.690799999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="82.87868" y="45.211999999999996">32</text>
+  <rect class="border" height="4.521199999999999" style="fill: #ffdbb6;" width="22.5806" x="96.49892" y="41.690799999999996"/>
+  <text class="schedule" dominant-baseline="baseline" font-size="4.13" text-anchor="start" x="97.49892" y="45.211999999999996">Nos.</text>
+</svg>
